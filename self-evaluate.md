@@ -2,13 +2,17 @@
 <h2>Self Evaluate</h2>
 
 <h3>Các phần đã hoàn thành:</h3>
-Routing: react-router or equivalent: 3 points
-Form: react-hook-form or equivalent: 3 points - Xuất nội dung đã nhập từ form trên backend.
-Data fetching: react-query or equivalent: 3 points
-Upload to public host: Chưa deploy
+<ul>
+<li>Routing: react-router or equivalent: 3 points</li>
+<li>Form: react-hook-form or equivalent: 3 points - Xuất nội dung đã nhập từ form trên backend.</li>
+<li>Data fetching: react-query or equivalent: 3 points</li>
+<li>Upload to public host: Chưa deploy</li>
+<ul>
 
 <h3>Hướng dẫn chạy:</h3>
-Cài đặt các thư viện cần thiết
-Tạo 2 Terminal
-Terminal đầu tiên chạy backend (thư mục chính)
-Terminal thứ hai chạy frontend (trong folder /frontend)
+<ul>
+<li>Cài đặt các thư viện cần thiết</li>
+<li>Tạo 2 Terminal</li>
+<li>erminal đầu tiên chạy backend (thư mục chính)</li>
+<li>Terminal thứ hai chạy frontend (trong folder /frontend)</li>
+</ul>
