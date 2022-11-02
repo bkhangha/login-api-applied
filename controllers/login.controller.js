@@ -1,6 +1,6 @@
 async function checkAccount(req, res){
-    res.send('Your email is ' + req.body.email + 
-    ' and your password is ' + req.body.pass);
+    res.send('Email: ' + req.body.email + 
+    'Password: ' + req.body.pass);
 }
 
 module.exports = {

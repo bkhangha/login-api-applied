@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import { useForm } from 'react-hook-form';
 
 class Register extends Component {
   render() {
     return (
-      <form action='/register/post' method='post'>
+      <form  action='/register/post' method='post' >
         <h2>Register</h2>
         <fieldset>
           <ul>

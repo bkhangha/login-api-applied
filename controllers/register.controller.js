@@ -1,7 +1,7 @@
 async function createAccount(req, res){
-    res.send('Your full name is ' + req.body.fname + ' ' + req.body.lname + 
-    '. Your email is ' + req.body.email + 
-    ' and your password is ' + req.body.pass);
+    res.send('Full name: ' + req.body.fname + ' ' + req.body.lname + 
+    '\n Email: ' + req.body.email + 
+    '\n Password: ' + req.body.pass);
 }
 
 module.exports = {

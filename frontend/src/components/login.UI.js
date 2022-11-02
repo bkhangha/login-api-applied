@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { useForm } from 'react-hook-form';
 
 export default class Login extends Component {
   render() {
